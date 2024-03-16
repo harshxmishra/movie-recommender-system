@@ -14,12 +14,12 @@ This Movie Recommender System is a Python-based application that provides movie 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/movie-recommender.git
+   git clone https://github.com/your-username/movie-recommender-system.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd movie-recommender
+   cd movie-recommende-systemr
    ```
 
 3. Install dependencies:
@@ -49,7 +49,8 @@ This Movie Recommender System is a Python-based application that provides movie 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot1](https://github.com/harshxmishra/movie-recommender-system/assets/123086111/8ed5bbed-32b0-4577-9e72-1b2abe7761c3)
+
 *Figure 1: Movie Recommender System interface.*
 
 ## Credits

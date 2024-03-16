@@ -10,7 +10,8 @@ This Movie Recommender System is a Python-based application that provides movie 
 - Displays movie posters along with recommendations.
 - Uses TMDb API to fetch movie posters dynamically.
 
-**##Dataset**
+## Dataset
+
 The dataset used for training the model can be downloaded from Kaggle.
 Sign up for an account at [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and download the Dataset.
 
